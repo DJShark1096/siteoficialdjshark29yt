@@ -41,8 +41,8 @@
     <section id="videos">
         <h2>Vídeos & Redes Sociais</h2>
         <div class="video-container">
-            <iframe src="https://youtube.com/wXMp-yp2gkI?si=Y_9T_2z1pD7yO8Zk" frameborder="0" allowfullscreen></iframe>
-            <iframe src="https://youtube.com/QWd5IoEdmkM?si=XJ2V-5kn5VpBFja6" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/QWd5IoEdmkM?si=d1r_fIYH0FD7ISCW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/wXMp-yp2gkI?si=AhxpawrjEiC1KJsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
         <div class="social-links">
             <h3>Redes sociais do YouTuber:</h3> 
